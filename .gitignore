@@ -1,0 +1,3 @@
+.vagrant/
+.bintray.json
+*.box
