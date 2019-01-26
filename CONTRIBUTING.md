@@ -1,11 +1,11 @@
 # アップロード方法
 
-## boxの作成
+## box の作成
 
 ```
 ./pack.sh
 ```
 
-## boxのアップロード
+## box のアップロード
 
-できあがった`precise64.box`をGitHubのreleaseページでアップロードします。
+できあがった`trusty64.box`を GitHub の release ページでアップロードします。

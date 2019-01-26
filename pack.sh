@@ -10,4 +10,4 @@ fi
 echo "Packing..."
 vagrant package
 
-mv package.box precise64.box
+mv package.box trusty64.box
